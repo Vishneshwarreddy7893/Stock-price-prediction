@@ -1,5 +1,9 @@
 Machine Learning in Stock Price Prediction
+
+
 Types of Models
+
+
 Machine learning models, particularly those based on transformer architectures like GPT-3, have gained popularity in stock price prediction. These models excel at understanding patterns and relationships in sequential data.
 
 Benefits and Limitations
